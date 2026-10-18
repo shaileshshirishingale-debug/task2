@@ -1,0 +1,6 @@
+{
+  "name": "QuestHabit - Gamified Daily Task & Habit Tracker",
+  "description": "Vercel-compatible gamified task & habit tracker with streaks, XP, achievements, daily reflections, PostgreSQL persistence, and Vercel Blob exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
